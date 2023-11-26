@@ -42,7 +42,7 @@ Our Project Management Android application is a powerful tool designed to stream
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Project-Management.git
+    git clone https://github.com/Iamshivang/Project-Management.git
     ```
 
 2. Open the project in Android Studio.
